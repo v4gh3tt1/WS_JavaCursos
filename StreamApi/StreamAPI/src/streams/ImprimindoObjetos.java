@@ -9,6 +9,8 @@ public class ImprimindoObjetos {
 	
 	public static void main(String[] args) {
 		
+		// percorrer lista e imprimir dados
+		
 		List<String> aprovados = Arrays.asList("Lu", "Gui", "Luca", "Ana");
 		
 		//forma mais simples de percorrer os elementos com laço for
@@ -35,7 +37,7 @@ public class ImprimindoObjetos {
 		// usando strem ->laço interno
 		System.out.println("\n*-*-*-*-*-*-*-*-*");
 		Stream<String> st = aprovados.stream();
-		st.forEach(System.out::println);
+		st.forEach(System.out::println); // laço interno
 		
 	}
 
