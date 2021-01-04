@@ -1,13 +1,16 @@
+content_assist_autoactivation_delay=40
 content_assist_completion_replacement_background=200,200,0
 content_assist_completion_replacement_foreground=194,0,0
 content_assist_disabled_computers=org.eclipse.jdt.ui.textProposalCategory\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\u0000org.eclipse.jdt.ui.javaAllProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaChainProposalCategory\u0000
-content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="streams.Pessoa"><rhs name\="streams.Pessoa"/></lhs></history>
-content_assist_number_of_computers=20
+content_assist_favorite_static_members=org.assertj.core.api.Assertions.*;org.mockito.Matchers.*;org.mockito.Mockito.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestBuilders.*;org.springframework.security.test.web.servlet.request.SecurityMockMvcRequestPostProcessors.*;org.springframework.security.test.web.servlet.response.SecurityMockMvcResultMatchers.*;org.springframework.security.test.web.servlet.setup.SecurityMockMvcConfigurers.*;org.springframework.restdocs.mockmvc.MockMvcRestDocumentation.*;org.springframework.test.web.client.match.MockRestRequestMatchers.*;org.springframework.test.web.client.response.MockRestResponseCreators.*;org.springframework.test.web.servlet.request.MockMvcRequestBuilders.*;org.springframework.test.web.servlet.result.MockMvcResultHandlers.*;org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;org.hamcrest.CoreMatchers.*;org.junit.Assert.*
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="streams.Pessoa"><rhs name\="streams.Pessoa"/></lhs><lhs name\="excecao.Aluno"><rhs name\="excecao.Aluno"/></lhs></history>
+content_assist_number_of_computers=22
 content_assist_parameters_background=48,54,59
 content_assist_parameters_foreground=235,237,239
 content_assist_proposals_background=48,54,59
 content_assist_proposals_foreground=235,237,239
 eclipse.preferences.version=1
+escape\u00A5Strings=true
 hoverModifierMasks=org.eclipse.jdt.ui.BestMatchHover;0;org.eclipse.jdt.internal.debug.ui.JavaDebugHover;0;org.eclipse.jdt.ui.ProblemHover;0;org.eclipse.jdt.ui.NLSStringHover;327680;org.eclipse.jdt.ui.JavadocHover;393216;org.eclipse.jdt.ui.AnnotationHover;0;org.eclipse.jdt.ui.JavaSourceHover;131072;
 hoverModifiers=org.eclipse.jdt.ui.BestMatchHover;0;org.eclipse.jdt.internal.debug.ui.JavaDebugHover;\!0;org.eclipse.jdt.ui.ProblemHover;\!0;org.eclipse.jdt.ui.NLSStringHover;Ctrl+Alt;org.eclipse.jdt.ui.JavadocHover;Ctrl+Shift;org.eclipse.jdt.ui.AnnotationHover;\!0;org.eclipse.jdt.ui.JavaSourceHover;Shift;
 java_bracket=216,216,216
@@ -162,6 +165,11 @@ semanticHighlighting.varKeyword.bold=false
 semanticHighlighting.varKeyword.color=197,104,28
 semanticHighlighting.yieldKeyword.bold=false
 semanticHighlighting.yieldKeyword.color=197,104,28
+smartPaste=true
+smart_backspace=true
+smart_opening_brace=true
+smart_semicolon=true
+smart_tab=true
 sourceHoverBackgroundColor=44,49,53
 sp_cleanup.add_default_serial_version_id=true
 sp_cleanup.add_generated_serial_version_id=false
