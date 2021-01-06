@@ -80,6 +80,19 @@ public class Campo {
 			return vizinhos.stream().noneMatch(v -> v.campoMinado);
 		}
 		
+		void minarCampo() {
+			campoMinado = true;
+		}
 		
+		public boolean isMarcado() { // funciona como get... para retornar se esta marcado ou nao
+			return campoMarcado;
+		}
 		
+		public boolean isCampoAberto() {
+			return campoAberto;
+		}
+		
+		public boolean isCampoFechado() {
+			return !isCampoAberto();
+		}
 }
