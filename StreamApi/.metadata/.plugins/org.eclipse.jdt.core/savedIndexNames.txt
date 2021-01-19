@@ -1,3 +1,16 @@
 INDEX VERSION 1.131+C:\Users\ch2va\Desktop\WorkSpace\WS_JavaCursos\StreamApi\.metadata\.plugins\org.eclipse.jdt.core
-1671692264.index
-3933804599.index
+2002815095.index
+1981067212.index
+2889130138.index
+650824976.index
+853081647.index
+174873216.index
+73969060.index
+3591852522.index
+1469523150.index
+1782183543.index
+2776494809.index
+251424635.index
+1433634440.index
+1991478066.index
+1488730158.index
